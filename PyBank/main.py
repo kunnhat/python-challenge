@@ -58,3 +58,7 @@ with open(output, 'w') as file:
     file.write(f'Net Total Amount of "Profit/Losses": {sum(total_profit)}')
     file.write("\n")
     file.write(f'Average Change: {round(sum(month_change)/len(month_change),)}')
+    file.write("\n")
+    file.write(f'Greatest increase in profit: {max_increase}')
+    file.write("\n")
+    file.write(f'Greatest decrease in loss: {max_decrease}')

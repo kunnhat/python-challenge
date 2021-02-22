@@ -3,3 +3,5 @@ Financial Analytics
 Total Months: 86
 Net Total Amount of "Profit/Losses": 38382578
 Average Change: -2315
+Greatest increase in profit: 1926159
+Greatest decrease in loss: -2196167
